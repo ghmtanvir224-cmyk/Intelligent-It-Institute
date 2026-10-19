@@ -1,0 +1,5 @@
+{"name":"intelligent-it","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},
+"dependencies":{"next":"latest","react":"latest","react-dom":"latest","server-only":"latest","zod":"^3","react-hook-form":"^7","@hookform/resolvers":"^3","@supabase/supabase-js":"^2","lucide-react":"latest","framer-motion":"latest"},
+"devDependencies":{"typescript":"^5","@types/node":"^20","@types/react":"latest","tailwindcss":"^3","postcss":"latest","autoprefixer":"latest"}}
+npm install
+npm run dev
